@@ -4,7 +4,7 @@ Hi 👋 My name is Bradley Allen
 Recent Graduate
 ---------------
 
-I recently graduated with a bachelor's degree from the University of South Carolina. I enjoy programming and learning new languages and techniques. In my free time, I spend time with my girlfriend playing video games, hiking, and exercising.
+I recently graduated with a bachelor's degree from the University of South Carolina Upstate. I enjoy programming and learning new languages and techniques. In my free time, I spend time with my girlfriend playing video games, hiking, and exercising.
 
 * ✉️  You can contact me at [btallen08@gmail.com](mailto:btallen08@gmail.com)
 * 🧠  I'm currently learning C++, ReactJS, and Unreal Engine
