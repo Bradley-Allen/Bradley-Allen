@@ -1,13 +1,10 @@
 Hi 👋 My name is Bradley Allen
 ==============================
 
-Recent Graduate
----------------
-
-I recently graduated with a bachelor's degree from the University of South Carolina Upstate. I enjoy programming and learning new languages and techniques. In my free time, I spend time with my girlfriend playing video games, hiking, and exercising.
+I recently graduated with a bachelor's degree from the University of South Carolina. I enjoy programming and learning new languages and techniques. In my free time, I spend time with my girlfriend playing video games, hiking, and exercising.
 
 * ✉️  You can contact me at [btallen08@gmail.com](mailto:btallen08@gmail.com)
-* 🧠  I'm currently learning C++, ReactJS, and Unreal Engine
+* 🧠  I'm learning C++, ReactJS, and Unreal Engine
 
 ### Skills
 
@@ -36,3 +33,5 @@ I recently graduated with a bachelor's degree from the University of South Carol
 <a href="http://www.github.com/Bradley-Allen"><img src="https://github-readme-stats.vercel.app/api?username=Bradley-Allen&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Bradley-Allen's GitHub stats" /></a>
 
 <a href="https://github.com/Bradley-Allen" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bradley-Allen&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<a href="https://www.buymeacoffee.com/BradleyAllen"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
