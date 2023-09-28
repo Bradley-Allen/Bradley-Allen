@@ -33,9 +33,3 @@ I recently graduated with a bachelor's degree from the University of South Carol
 ### Socials
 
 <p align="left"> <a href="https://discord.com/users/MrRumble76#7675" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/Bradley-Allen" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/bradley-allen-557989275/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-
-### Stats
-
-<a href="https://github.com/Bradley-Allen" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bradley-Allen&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<a href="https://www.buymeacoffee.com/BradleyAllen"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
